@@ -1,5 +1,5 @@
-### INSTALL SCRIPT 
-<pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/elvaretta-store/v3.0lts/main/install.sh && chmod +x premi.sh && ./install.sh
+### INSTALL SCRIPT VPS V3.0 LTS
+<pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/elvaretta-store/v3.0lts/main/premi.sh && chmod +x premi.sh && ./premi.sh
 </code></pre>
  
 ### TESTED ON OS <br/>
